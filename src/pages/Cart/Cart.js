@@ -39,7 +39,7 @@ export default function Cart() {
 
           <div>
             <h2>Oops...</h2>
-            <p>Looks like your shopping cart is empty!</p>
+            <p>Parece que seu carrinho de compras está vazio!</p>
             <StartShopping to="/">Start Shopping</StartShopping>
           </div>
         </EmptyCart>
