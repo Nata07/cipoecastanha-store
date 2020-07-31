@@ -27,7 +27,7 @@ export default function Header() {
       <Cart to="/cart">
         <div>
           <strong>Meu carrinho</strong>
-          <span>{cartSize === 1 ? `${cartSize} product` : `${cartSize} products`}</span>
+          <span>{cartSize === 1 ? `${cartSize} produto` : `${cartSize} produtos`}</span>
         </div>
         <MdShoppingCart size={36} color="#FFF" />
         <span>{cartSize}</span>

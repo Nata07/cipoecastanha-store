@@ -47,10 +47,6 @@ export default createGlobalStyle`
       font: 14px 'Ubuntu', -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
     }
 
-    & strong {
-      font-family: 'Playfair Display';
-      font-weight: 100;
-    }
 
   }
 

@@ -13,6 +13,8 @@ export const Container = styled.header`
     > strong {
       font-size: 30px;
       color: #FFF;
+      font-family: 'Playfair Display';
+      font-weight: 100;
     }
   }
 `;
@@ -43,6 +45,7 @@ export const Cart = styled(Link)`
     & strong {
       display: block;
       color: #fff;
+
     }
 
     & span {

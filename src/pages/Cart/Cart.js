@@ -49,8 +49,8 @@ export default function Cart() {
             <thead>
               <tr>
                 <th />
-                <th>PRODUCT</th>
-                <th>AMOUNT</th>
+                <th>PRODUTO</th>
+                <th>VALOR</th>
                 <th>SUBTOTAL</th>
               </tr>
             </thead>
@@ -63,7 +63,8 @@ export default function Cart() {
                     </figure>
                   </td>
                   <td>
-                    <strong>{product.title}</strong>
+                    {/* <strong>{product.title}</strong> */}
+                    <strong>DESCRICAO</strong>
                     <span>{product.priceFormatted}</span>
                   </td>
                   <td>

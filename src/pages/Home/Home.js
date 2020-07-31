@@ -68,7 +68,7 @@ export default function Home() {
                   </div>
                 )}
 
-                <span>ADD TO CART</span>
+                <span>ADD AO CARRINHO</span>
               </button>
             </div>
           </li>
