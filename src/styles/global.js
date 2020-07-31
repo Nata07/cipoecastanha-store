@@ -5,6 +5,8 @@ import background from '../assets/images/background.svg';
 
 export default createGlobalStyle`
   @import url('https://fonts.googleapis.com/css?family=Ubuntu:400,700&display=swap');
+  /* @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap'); */
+  @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 
   * {
     margin: 0;
@@ -43,6 +45,11 @@ export default createGlobalStyle`
 
     &, input, button {
       font: 14px 'Ubuntu', -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    & strong {
+      font-family: 'Playfair Display';
+      font-weight: 100;
     }
 
   }

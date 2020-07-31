@@ -10,14 +10,11 @@ export const Container = styled.header`
   & a {
     text-decoration: none;
 
-    p {
-      font-size: 26px;
-      font-weight: bold;
+    > strong {
+      font-size: 30px;
       color: #FFF;
     }
   }
-
-
 `;
 
 export const Cart = styled(Link)`

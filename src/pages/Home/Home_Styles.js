@@ -56,7 +56,8 @@ export const ProductList = styled.ul`
       font-size: 16px;
       line-height: 20px;
       margin-top: 5px;
-
+      font-family: 'Ubuntu';
+      font-weight: 700;
 
       + div {
         display: flex;

@@ -17,9 +17,10 @@ export default function Header() {
 
       <Link to="/">
 
-        <p>
-          Cipo & Castanha
-        </p>
+        <strong>
+          Cipó & <br/>
+        </strong>
+        <strong> Castanha</strong>
 
       </Link>
 
