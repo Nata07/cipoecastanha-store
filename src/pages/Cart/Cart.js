@@ -40,7 +40,7 @@ export default function Cart() {
           <div>
             <h2>Oops...</h2>
             <p>Parece que seu carrinho de compras está vazio!</p>
-            <StartShopping to="/">Start Shopping</StartShopping>
+            <StartShopping to="/">Ir para Home</StartShopping>
           </div>
         </EmptyCart>
       ) : (
@@ -92,7 +92,7 @@ export default function Cart() {
           </ProductTable>
 
           <footer>
-            <button type="submit">Proceed to Checkout</button>
+            <button type="submit">Finalizar compra</button>
             <Total>
               <span>TOTAL:</span>
               <strong>{total}</strong>
