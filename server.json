@@ -1,0 +1,66 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Tênis de Caminhada Leve Confortável",
+      "price": 179.9,
+      "image": "https://res.cloudinary.com/nsdev/image/upload/v1595990771/cipoecastanha/products/prod1_yfor1u.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Tênis VR Caminhada Confortável Detalhes Couro Masculino",
+      "price": 139.9,
+      "image": "https://res.cloudinary.com/nsdev/image/upload/v1595990774/cipoecastanha/products/prod7_s44viv.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Tênis Adidas Duramo Lite 2.0",
+      "price": 219.9,
+      "image": "https://res.cloudinary.com/nsdev/image/upload/v1595990777/cipoecastanha/products/prod6_r2omne.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Tênis VR Caminhada Confortável Detalhes Couro Masculino",
+      "price": 139.9,
+      "image": "https://res.cloudinary.com/nsdev/image/upload/v1595990777/cipoecastanha/products/prod4_eimqyg.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Tênis Adidas Duramo Lite 2.0",
+      "price": 219.9,
+      "image": "https://res.cloudinary.com/nsdev/image/upload/v1595990776/cipoecastanha/products/prod5_h6grjt.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Tênis de Caminhada Leve Confortável",
+      "price": 179.9,
+      "image": "https://res.cloudinary.com/nsdev/image/upload/v1595990775/cipoecastanha/products/prod8_i09kwy.jpg"
+    }
+  ]
+}
