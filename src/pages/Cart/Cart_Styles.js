@@ -91,7 +91,6 @@ export const StartShopping = styled(Link)`
     &:active {
       background: ${darken(0.04, '#7159c1')};
     }
-  }
 `;
 
 export const ProductTable = styled.table`
