@@ -4,7 +4,6 @@ import { Link } from 'react-router-dom';
 import { MdShoppingCart } from 'react-icons/md';
 
 import { Container, Cart } from './Header_Styles';
-import logo from '../../assets/images/logo.svg';
 
 export default function Header() {
   const cartSize = useSelector(state =>
